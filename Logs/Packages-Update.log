@@ -46,3 +46,27 @@ The following packages were updated:
   com.unity.timeline from version 1.6.2 to 1.6.4
   com.unity.xr.legacyinputhelpers from version 2.1.8 to 2.1.10
   com.unity.visualscripting from version 1.7.7 to 1.7.8
+
+=== Mon Mar 18 02:37:19 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.postprocessing from version 2.3.0 to 3.2.2
+
+=== Mon Mar 18 02:37:20 2024
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.postprocessing@3.2.2
+
+=== Mon Mar 18 02:43:30 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.postprocessing from version 2.3.0 to 3.2.2
