@@ -11,20 +11,24 @@ public float attackRange = 2;
 public float speed = 3;
 public int health;
 public int maxHealth;
-
 public Animator animator;
 void Start()
 {
 target = GameObject.FindGameObjectWithTag("Player").transform;
 health = maxHealth;
 }
+
 void Update()
 {
+if(PlayerManager.gameOver)
+{
+animator.enabled= false;
+this.enabled= false;
+}
 float distance = Vector3.Distance(transform.position, target.position);
 if (currentState == "IdleState")
 {
 if (distance < chaseRage)
-
 currentState = "ChaseState";
 }else if (currentState == "ChaseState")
 {
@@ -52,6 +56,7 @@ transform.rotation = Quaternion.identity;
 {
 animator.SetBool("isAttacking", true);
 if (distance > attackRange)
+
 {
 currentState = "ChaseState";
 }
@@ -61,14 +66,13 @@ public void TakeDamage(int damage)
 {
 health -= damage;
 currentState = "ChaseState";
-if (health < 0)
+if (health <= 0)
 {
 Die();
 }
 }
 private void Die()
 {
-
 //animación muerte
 animator.SetTrigger("isDead");
 //desactivar script y colisionador

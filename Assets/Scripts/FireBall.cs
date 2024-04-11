@@ -4,7 +4,7 @@ using UnityEngine;
 public class FireBall : MonoBehaviour
 {
 public GameObject damageEffect;
-public int damageAmount = 40;
+public int damageAmount = 25;
 private void OnTriggerEnter(Collider other)
 {
 if(other.tag=="Enemy")

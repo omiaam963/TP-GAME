@@ -7,9 +7,19 @@ public GameObject fireBall;
 public Transform fireBallPoint;
 public float fireBallSpeed = 600;
 
+public GameObject superFireBall;
+public Transform superFireBallPoint;
+public float superFireBallSpeed = 900;
+
 public void FireBallAttack()
 {
 GameObject ball = Instantiate(fireBall, fireBallPoint.position, Quaternion.identity);
 ball.GetComponent<Rigidbody>().AddForce(fireBallPoint.forward * fireBallSpeed);
+}
+
+public void SuperFireBallAttack()
+{
+GameObject ball = Instantiate(superFireBall, superFireBallPoint.position, Quaternion.identity);
+ball.GetComponent<Rigidbody>().AddForce(superFireBallPoint.forward * superFireBallSpeed);
 }
 }

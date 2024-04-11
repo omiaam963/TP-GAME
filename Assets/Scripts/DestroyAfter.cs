@@ -6,6 +6,6 @@ public class DestroyAfter : MonoBehaviour
 public float lifeDuration;
 void Start()
 {
-DestroyObject(gameObject, lifeDuration);
+Destroy(gameObject, lifeDuration);
 }
 }
