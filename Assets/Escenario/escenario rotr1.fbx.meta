@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 160d285dfef53ac40b554af1eedd6e86
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 117ed3a30f949a6cacbb576ae93e4c38
+    second: {fileID: 2800000, guid: 7a683e766c35d3f449915dcaacf8dcc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 19f75f2bf6e184ef14e6f5c3a5b1aa47 1
+    second: {fileID: 2800000, guid: b3d9db0b315b0db4aa91ebc60f1b612a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1fb4455c2570f6970ec2e2a368735067
+    second: {fileID: 2800000, guid: 083ddd1aa076d2a4ebec738094693214, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3d107a9fc025192d4c071060c13c1401
+    second: {fileID: 2800000, guid: f33048e35025bc044aa189736f05e88c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 83514f10bc992e5bac73e09eb96fe955 2
+    second: {fileID: 2800000, guid: 1b3b8ecbabd00da499e3f6b5732ee9ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9af6989ab4b74e408bc5e08d0ba6645a
+    second: {fileID: 2800000, guid: 6b9c25e2b7902ae49bd7c14dcf05454d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9af6989ab4b74e408bc5e08d0ba6645a 1
+    second: {fileID: 2800000, guid: c54ef2c6872ef7f4f866a4c0e3d4b43b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fence007A_8K-JPG_Color
+    second: {fileID: 2800000, guid: 9d3d7f511ff269042aa33919ef0139f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Group 34
+    second: {fileID: 2800000, guid: 064de1e5b4ef7b14eb25425ac88bc707, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Marble01_rgh
+    second: {fileID: 2800000, guid: a37fe8ac50869dd4295150770eb06b26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: a9d6074a689d4ba9e07ce27fa6f9d81a 1
+    second: {fileID: 2800000, guid: ee5d23f9612e2a14ba21f17709cd1bce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: abd71c8446823d84772a08004932e84c
+    second: {fileID: 2800000, guid: c9e33cf65ef63b84eb177a7044bceaa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: atlas1
+    second: {fileID: 2800000, guid: 074ea4ba45f179f49b64db258e603066, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dry-dirt2-albedo
+    second: {fileID: 2800000, guid: eb54655e98c6dab41bbfcfb0e74e71d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dry-dirt2-normal2
+    second: {fileID: 2800000, guid: 2a30d0d5481eec3419f810ffdf2193c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e29a012e930af0492aa9c9932fefd163 2
+    second: {fileID: 2800000, guid: 0e8dc27ff54f89a448a388ddd7976372, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e430c22ec4684543d45694abf366a1df 1
+    second: {fileID: 2800000, guid: 54f1b386cac0a6a46bc13df3c306dbc1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: granitesmooth1-normal2
+    second: {fileID: 2800000, guid: 8c3445882347ec6449f3df9386f3fa44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: painted-cmu-block-stretcher-5f2b0ffd2cdfe-1200 2
+    second: {fileID: 2800000, guid: 2c0d0634b0427d5489685845e1dbe53c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: texturabarrera
+    second: {fileID: 2800000, guid: 06e1bc83767adfa40a10b47981844cd0, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

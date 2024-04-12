@@ -1,0 +1,211 @@
+Using pre-set license
+Built from '2021.3/evg/staging/82bb020e-b03b1330/draft-0' branch; Version is '2021.3.16f1 (4016570cf34f) revision 4200023'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'es' Physical Memory: 16223 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/rocio/Documents/GitHub/TP-GAME
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+64606
+Successfully changed project path to: C:/Users/rocio/Documents/GitHub/TP-GAME
+C:/Users/rocio/Documents/GitHub/TP-GAME
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [7904] Host "[IP] 172.18.2.253 [Port] 0 [Flags] 2 [Guid] 2942171462 [EditorId] 2942171462 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-HV5EPP2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [7904] Host "[IP] 172.18.2.253 [Port] 0 [Flags] 2 [Guid] 2942171462 [EditorId] 2942171462 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-HV5EPP2) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 535.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.16f1 (4016570cf34f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rocio/Documents/GitHub/TP-GAME/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     8111 MB
+    Driver:   23.20.16.4973
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56916
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011715 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 352.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.252 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2253ms)
+		BeginReloadAssembly (286ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1623ms)
+			LoadAssemblies (279ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (332ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (108ms)
+			SetupLoadedEditorAssemblies (1023ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (27ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (353ms)
+				BeforeProcessingInitializeOnLoad (6ms)
+				ProcessInitializeOnLoadAttributes (481ms)
+				ProcessInitializeOnLoadMethodAttributes (155ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.032426 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\rocio\Documents\GitHub\TP-GAME\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\rocio\Documents\GitHub\TP-GAME\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 452.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.873 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4875ms)
+		BeginReloadAssembly (335ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (20ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (4107ms)
+			LoadAssemblies (261ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1205ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (240ms)
+			SetupLoadedEditorAssemblies (2271ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (34ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (453ms)
+				BeforeProcessingInitializeOnLoad (423ms)
+				ProcessInitializeOnLoadAttributes (1047ms)
+				ProcessInitializeOnLoadMethodAttributes (289ms)
+				AfterProcessingInitializeOnLoad (25ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 2.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5410 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 51 unused Assets / (1.9 MB). Loaded Objects now: 5856.
+Memory consumption went from 221.5 MB to 219.5 MB.
+Total: 13.475800 ms (FindLiveObjects: 0.837900 ms CreateObjectMapping: 0.980000 ms MarkObjects: 9.530900 ms  DeleteObjects: 2.124600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 734080.905445 seconds.
+  path: Assets/Escenario/boxxe_phong1SG.001.mat
+  artifactKey: Guid(302738c08b2f7b54ab0fcef9fbe61b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escenario/boxxe_phong1SG.001.mat using Guid(302738c08b2f7b54ab0fcef9fbe61b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c9c0fd0eefa88c12b9166d185ffd14') in 1.509454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Escenario/lambert3SG.001.mat
+  artifactKey: Guid(2a8a8f3763326064da6b50a236d413d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escenario/lambert3SG.001.mat using Guid(2a8a8f3763326064da6b50a236d413d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1363c36e4467a9b1811d79a33a5933ea') in 0.149368 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Escenario/fierro.mat
+  artifactKey: Guid(c8f8b76dfcba166469aafeeb7bda10d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escenario/fierro.mat using Guid(c8f8b76dfcba166469aafeeb7bda10d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1bf67348a75a5fb3693f7fa59c7669') in 0.212207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Escenario/foliage_47.mat
+  artifactKey: Guid(c0de8ca5328570b40a24d81436b1dc0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escenario/foliage_47.mat using Guid(c0de8ca5328570b40a24d81436b1dc0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adcd9827650974abc75a8166b0d29f02') in 0.167362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Escenario/cristal.mat
+  artifactKey: Guid(6e8df87eaf987414790d6ee519c1d340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escenario/cristal.mat using Guid(6e8df87eaf987414790d6ee519c1d340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02243e2dc6c8c5d73fdf3417f19887a0') in 0.153379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.420400 seconds.
+  path: Assets/Escenario/19f75f2bf6e184ef14e6f5c3a5b1aa47 2.png
+  artifactKey: Guid(06cf401565a49e343a54b8fb9cf35658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escenario/19f75f2bf6e184ef14e6f5c3a5b1aa47 2.png using Guid(06cf401565a49e343a54b8fb9cf35658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a1a1444f0be2828a3ccf960ea3ac452') in 0.206556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.343687 seconds.
+  path: Assets/Escenario/07___Default.mat
+  artifactKey: Guid(16014bd818bdeae4eb7af0ca38b00519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escenario/07___Default.mat using Guid(16014bd818bdeae4eb7af0ca38b00519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6501bb00876eaadbbfeedd2d68b3f5') in 0.199643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.126507 seconds.
+  path: Assets/Escenario/2a4049bc622dcf2b7abcbb90530dcfa8 2.png
+  artifactKey: Guid(6e355af14292c9442bc1c0afa5e5ed1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escenario/2a4049bc622dcf2b7abcbb90530dcfa8 2.png using Guid(6e355af14292c9442bc1c0afa5e5ed1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f908d43e6a98ddee1f2d757423dba93') in 0.046625 seconds 
